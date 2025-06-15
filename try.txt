@@ -1,2 +1,2 @@
-hello.txt
+Hello from B - changed
 >> Hello from base project
